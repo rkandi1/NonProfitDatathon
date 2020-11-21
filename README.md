@@ -1,8 +1,8 @@
-# Datathon by Understood
+# NonProfitDatathon
 DSC Datathon. Creating Database for Non-Profits.
 
 ## Goals
-The goal of this project is to find organizations that are closest in their goals to Understood.org's mission. Understood is a non-profit dedicated to serving the millions of families of kids who learn and think differently.
+The goal of this project is to find organizations that are closest in their goals to Understood.org's mission. Understood is a non-profit dedicated to serving the millions of families of kids who learn and think differently. Understood is looking for potential partners and wants an updated set of partners with whom they can work closely.  
 
 
 ## Mining the Data
